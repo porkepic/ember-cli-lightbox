@@ -25,7 +25,7 @@
     "ember-cli-babel": "^6.3.0",
     "ember-cli-htmlbars": "^2.0.3",
     "ember-cli-node-assets": "^0.2.2",
-    "lightbox2": "^2.9.0",
+    "lightbox2": "git://github.com/porkepic/lightbox2.git#e831b6d5cca787eb310d9d25ac6928b69e6d59c8",
     "postcss-url": "^7.1.2"
   },
   "devDependencies": {
